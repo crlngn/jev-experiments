@@ -1,2 +1,2 @@
-# experiments
-A place for small experiments using new models or technologies
+# Jev Experiments
+A place for small experiments using Jev
